@@ -1,2 +1,7 @@
 
 dataset/Thunderbird_20M.log_structured.csv
+parse/total_output.xlsx
+parse/~$total_output.xlsx
+logparser/__pycache__/__init__.cpython-39.pyc
+logparser/__pycache__/Drain.cpython-39.pyc
+logparser/__pycache__/Spell.cpython-39.pyc
