@@ -6,3 +6,4 @@ logparser/__pycache__/__init__.cpython-39.pyc
 logparser/__pycache__/Drain.cpython-39.pyc
 logparser/__pycache__/Spell.cpython-39.pyc
 parse/total_output.csv
+parse/Windows_log_labeled.csv
