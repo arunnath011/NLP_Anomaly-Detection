@@ -9,3 +9,8 @@ parse/total_output.csv
 parse/Windows_log_labeled.csv
 *.txt
 dataset/Windows/Windows.log
+*.csv
+*.xlsx
+*.pyc
+dataset/Windows.log
+*.pyc
