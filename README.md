@@ -1,7 +1,7 @@
 
-# Fall 2022 Final Project for w207
+# Fall 2022 Final Project for w266 - Log Anomaly Detection using NLP
 
-This project aims is to predict COVID19 mortality through panel data and images.
+This project aims is to predict Log Anomaly Detection using NLP models.
 
 ## Project Location
 
@@ -22,14 +22,26 @@ You can have to manually download the log file and they are huge (~27GiB) each a
 
 Go to `/parser/` and run `jupyter-lab` on `W266_final_BERT_BGL_datacleaning.ipynb` for BGL parsing, `W266_final_BERT_Tbird_datacleaning.ipynb` for Tbird parsing and `W266_final_BERT_Windows_datacleaning.ipynb` for Windows parsing.
 
+Its important to move the parsed csv files to Google drive for any of the baseline or project models to runs. 
 
 #### Running the Baseline Models
-* Run`jupyter-lab` and walk through the code to run the baseline models in.
+* Run`jupyter-lab` and either go to `/baseline/` folder or walkthrough the code in GIT in the links below.
 
 **BGL Baseline Source**: *https://github.com/FirmwareDS/W266-FinalProject/blob/main/baseline/W266_project_baseline_BGL.ipynb*
 **Tbird Baseline Source**: *https://github.com/FirmwareDS/W266-FinalProject/blob/main/baseline/W266_project_baseline_Tbird.ipynb*
 **Windows Baseline Source**: *https://github.com/FirmwareDS/W266-FinalProject/blob/main/baseline/W266_project_baseline_windows.ipynb*
 
-#### Running the notebook
+#### Running the models
+* Run`jupyter-lab` and either go to `/experiments/` folder or walkthrough the code in GIT in the links below.
 
+
+**BGL Baseline Source**: *https://github.com/FirmwareDS/W266-FinalProject/blob/main/experiments/W266_Logmodelbuilding_BGL.ipynb*
+**Tbird Baseline Source**: *https://github.com/FirmwareDS/W266-FinalProject/blob/main/experiments/W266_Logmodelbuilding_Tbird.ipynb*
+**Windows Baseline Source**: *https://github.com/FirmwareDS/W266-FinalProject/blob/main/experiments/W266_Logmodelbuilding_Windows.ipynb*
+
+All the models were run on google Collab with the parsed files stored in Google drive as mentioned above.
+
+#### Project report
+
+Project report is provided as a PDF in `/final report/` or can be downloaded from *https://github.com/FirmwareDS/W266-FinalProject/blob/main/final%20report/W266_Final_Report.pdf* 
 
