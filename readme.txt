@@ -1,1 +1,0 @@
-split -dl 10000 --additional-suffix=.txt Windows.log wrd
