@@ -43,5 +43,5 @@ All the models were run on google Collab with the parsed files stored in Google 
 
 #### Project report
 
-Project report is provided as a PDF in `/final report/` or can be downloaded from *https://github.com/FirmwareDS/W266-FinalProject/blob/main/final%20report/W266_Final_Report.pdf* 
+Project report is provided as a PDF in `/final report/` or can be downloaded from *https://github.com/FirmwareDS/W266-FinalProject/tree/main/final%20report* 
 
